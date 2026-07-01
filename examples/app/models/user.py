@@ -1,3 +1,7 @@
+"""
+User Model — SQLModel table definition.
+"""
+
 from sqlmodel import Field, SQLModel
 
 
